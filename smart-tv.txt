@@ -83,6 +83,7 @@ us.lgsmartad.com
 us.ad.lgsmartad.com
 us.info.lgsmartad.com
 jp.info.lgsmartad.com
+jp.ad.lgsmartad.com
 
 ad.lgappstv.com
 ibis.lgappstv.com
